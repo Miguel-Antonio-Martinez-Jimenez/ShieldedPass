@@ -1,0 +1,68 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Roboto', sans-serif; /* Usar la fuente de Google */
+    height: 100vh; /* Altura completa de la ventana */
+    display: flex; /* Usar flexbox */
+    justify-content: center; /* Centrado horizontal */
+    align-items: center; /* Centrado vertical */
+}
+.container {
+    background-color: white;
+    border-radius: 12px;
+    padding: 40px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px; /* Ancho máximo del contenedor */
+}
+h1 {
+    margin-bottom: 10px;
+    color: #343a40; /* Color más oscuro para el título */
+    font-size: 1.8rem;
+    font-weight: 700; /* Negrita */
+    text-align: center; /* Centrar el texto */
+}
+h3 {
+    margin-bottom: 30px;
+    color: #343a40; /* Color más oscuro para el título */
+    font-size: 1.4rem;
+    font-weight: 400; /* Negrita */
+    text-align: center; /* Centrar el texto */
+}
+label {
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: #495057; /* Color de etiqueta más suave */
+}
+.btn {
+    font-weight: 700;
+    margin-top: 20px;
+}
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #0056b3; /* Color de fondo al pasar el mouse */
+}
+.btn-success {
+    background-color: #28a745; /* Verde para el botón de copiar */
+    border: none;
+}
+.btn-success:hover {
+    background-color: #218838; /* Color al pasar el mouse */
+}
+.form-check {
+    margin-bottom: 15px;
+}
+#result {
+    margin-top: 15px;
+    font-size: 1.2rem;
+    text-align: center;
+    background-color: #e9ecef;
+    border: none; /* Sin borde */
+    padding: 10px; /* Añadir algo de padding */
+    border-radius: 5px; /* Bordes redondeados */
+}
+.alert {
+    transition: opacity 0.3s ease;
+}

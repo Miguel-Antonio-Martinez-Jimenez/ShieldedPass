@@ -70,7 +70,7 @@ El proyecto no requiere acceso o credenciales específicas, ya que es una aplica
 ## API.
 Este proyecto no expone endpoints, ya que no utiliza una API.
 
-## Contribuciónes
+## Contribuciónes.
 > [!Tip]
 > Si deseas contribuir al proyecto, reportar errores o proponer mejoras, te invitamos a abrir un pull request o issue en el repositorio. También puedes contactarme directamente para compartir tus ideas o sugerencias a través de mi correo electrónico miguelantoniomartinezjimenez00@gmail.com. ¡Toda colaboración es bienvenida!
 
@@ -92,7 +92,7 @@ El proyecto se puede probar manualmente utilizando las funcionalidades de genera
 - Si el usuario no selecciona ninguna opción de caracteres, no se generará una contraseña (se puede mejorar agregando una validación).
 
 ## Versiones.
-- **Version Actual**: v1.0.0.
+- **Version Actual**: v1.6.
 
 ## Actualizaciones.
 - Generación básica de contraseñas.

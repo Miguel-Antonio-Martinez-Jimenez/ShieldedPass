@@ -6,7 +6,9 @@
 ### Descripción General.
 El "ShieldedPass" es una aplicación web que permite a los usuarios crear contraseñas robustas y aleatorias. Con la creciente importancia de la seguridad en línea, esta herramienta facilita la generación de contraseñas que cumplen con estándares de seguridad, ayudando a prevenir accesos no autorizados a cuentas y datos sensibles.
 
-<img src="" />
+[<img src="screenshots/ShieldedPass.png" align="center"/>](https://miguel-antonio-martinez-jimenez.github.io/ShieldedPass/Index.html)
+
+Puedes acceder a una vista previa de la aplicación aquí: [ShieldedPass](https://miguel-antonio-martinez-jimenez.github.io/ShieldedPass/Index.html)
 
 ## Objetivo.
 El objetivo del **ShieldedPass** es proporcionar una herramienta sencilla y accesible para generar contraseñas robustas, personalizables y seguras, que permitan mejorar la protección de cuentas y datos personales en diversas plataformas. A través de la elección de la longitud y tipo de caracteres, se facilita la creación de contraseñas que cumplen con los estándares de seguridad, contribuyendo a la prevención de accesos no autorizados y ataques de fuerza bruta.

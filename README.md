@@ -75,7 +75,7 @@ Este proyecto no expone endpoints, ya que no utiliza una API.
 > Si deseas contribuir al proyecto, reportar errores o proponer mejoras, te invitamos a abrir un pull request o issue en el repositorio. También puedes contactarme directamente para compartir tus ideas o sugerencias a través de mi correo electrónico miguelantoniomartinezjimenez00@gmail.com. ¡Toda colaboración es bienvenida!
 
 ## Estado del Proyecto.
-**Estado Actual:** `Finalizado.`
+**Estado Actual:** `Finalizado`
 > [!Note]
 > Este proyecto se encuentra en estado **Finalizado**, lo que significa que todas las funcionalidades planeadas han sido implementadas y probadas satisfactoriamente. El código está disponible para su uso y estudio, y se aceptan contribuciones para mejoras o nuevas características.
 

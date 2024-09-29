@@ -66,7 +66,9 @@ El proyecto no requiere acceso o credenciales específicas, ya que es una aplica
   │   └── style.css
   ├── js/
   │   └── script.js
-  └── index.html
+  ├── index.html
+  ├── LICENSE
+  └── Readme.md
 
 ## API.
 Este proyecto no expone endpoints, ya que no utiliza una API.

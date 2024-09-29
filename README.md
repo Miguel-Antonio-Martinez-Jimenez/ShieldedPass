@@ -41,6 +41,7 @@ El objetivo del **ShieldedPass** es proporcionar una herramienta sencilla y acce
 
 ## Guía de Instalación.
 1. Clonación del Repositorio: Clona el repositorio del proyecto desde GitHub o descarga el archivo ZIP.
+
    ```bash
    git clone https://github.com/Miguel-Antonio-Martinez-Jimenez/ShieldedPass.git
 3. Abrir el Archivo HTML: Navega hasta la carpeta del proyecto y abre el archivo index.html en tu navegador web.

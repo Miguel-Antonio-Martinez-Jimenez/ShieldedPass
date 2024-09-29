@@ -59,6 +59,7 @@ El proyecto no requiere acceso o credenciales específicas, ya que es una aplica
 
 ## Estructura del Proyecto.
 - Estructura del proyecto **ShieldedPass**
+
   ```bash
   ShieldedPass/
   ├── css/

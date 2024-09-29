@@ -9,6 +9,7 @@ El "ShieldedPass" es una aplicación web que permite a los usuarios crear contra
 [<img src="screenshots/ShieldedPass.png" align="center" />](https://miguel-antonio-martinez-jimenez.github.io/ShieldedPass/Index.html)
 
 <p align="center">
+   
    Puedes acceder a una vista previa de la aplicación aquí: [ShieldedPass - Vista Previa](https://miguel-antonio-martinez-jimenez.github.io/ShieldedPass/Index.html)
 </p>
 
